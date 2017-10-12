@@ -9,7 +9,7 @@
  - [ ] Create a "your turn" mode
  - [ ] Integrate game mechanics
  - [ ] Configure gradle to create a exec file
- 
+
 
  ## Possible-notlikelybutprettycool-features
  - [ ] Create a AI so people can play vs computer

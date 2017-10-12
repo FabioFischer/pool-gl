@@ -1,0 +1,8 @@
+
+# IntelliJ IDEA #
+.idea/
+build/
+
+# Open-GL .dll files #
+*.dll
+
